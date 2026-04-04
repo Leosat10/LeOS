@@ -30,7 +30,7 @@ Prerequisites:
 
 Build:
 
-git clone https://github.com/yourusername/LeOS.git
+git clone https://github.com/Leosat10/LeOS.git
 cd LeOS
 make all
 
