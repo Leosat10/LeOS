@@ -138,8 +138,7 @@ ACKNOWLEDGEMENTS
 
 - GRUB
 - OSDev Wiki
-- MikeOS
-- ToAruOS
+-
 
 --------------------------------------------------
 
