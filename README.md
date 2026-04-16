@@ -44,11 +44,10 @@ Outputs:
 
 RUNNING
 
-QEMU:
+QEMU
 
 make run
 
-Or:
 
 qemu-system-i386 -cdrom os.iso -drive file=fs.img,format=raw,index=0,media=disk
 
@@ -137,8 +136,8 @@ MIT License
 ACKNOWLEDGEMENTS
 
 - GRUB
-- OSDev Wiki
--
+- OSDev Wike
+- Geeks for geeks
 
 --------------------------------------------------
 
